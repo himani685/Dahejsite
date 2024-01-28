@@ -1,0 +1,28 @@
+/* html {
+  
+  height: 100%;
+  width: 100%;
+} */
+/* # 20u {
+  background-image: url("C:\Users\shima\Downloads\Dahej paint.jpg");
+  background-size: cover;
+  height: 500px;
+} */
+/* #20u {
+  background-image: url("file:///C:/Users/shima/Downloads/Dahej%20paint.jpg");
+  background-size: cover;
+  height: 500px;
+} */
+/* // <uniquifier>: Use a uniquifier for the class name
+// <weight>: Use a value from 400 to 900
+
+.playfair-display-<uniquifier> {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+} */
+img{
+    height: 500px;
+    width: 100%;
+}
